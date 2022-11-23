@@ -1,10 +1,12 @@
 # Desenvolvimento de Aplicações WEB com Vue.JS 2.0
 
-O objetivo deste repositório é organizar um material sobre o desenvolvimento de aplicações Web com Vue.JS na versão 2.0. Este material está dividido nas seguintes unidades:
+O objetivo deste repositório é organizar um material sobre o desenvolvimento de aplicações Web com Vue.JS na versão 2.0. 
+
+Este material está dividido nas seguintes unidades:
 
 ### 1. Introdução à arquitetura de aplicações Web
 
-[Slides](Topico%2001%20-%20Introducao/01%20DAW%20Arquitetura.pdf)
+* [Slides](Topico%2001%20-%20Introducao/01%20DAW%20Arquitetura.pdf)
 
 ### 2. Introdução ao protocolo HTTP
 
@@ -14,11 +16,11 @@ O objetivo deste repositório é organizar um material sobre o desenvolvimento d
 
 ### 3. Introdução ao Vue.JS
 
-[Guia de estudo](Topico%2003%20-%20VueJS%20Introducao/03%20DAW%20VueJS%20Introducao.pdf)
+* [Guia de estudo](Topico%2003%20-%20VueJS%20Introducao/03%20DAW%20VueJS%20Introducao.pdf)
 
 ### 4. Introdução aos componentes Vue.JS
 
-[Guia de estudo](Topico%2004%20-%20VueJS%20Components/04%20DAW%20VueJS%20Componentes.pdf)
+* [Guia de estudo](Topico%2004%20-%20VueJS%20Components/04%20DAW%20VueJS%20Componentes.pdf)
 
 ### 5. Introdução ao roteador do Vue.JS
 
