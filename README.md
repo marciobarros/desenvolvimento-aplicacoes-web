@@ -8,11 +8,9 @@ O objetivo deste repositório é organizar um material sobre o desenvolvimento d
 
 ### 2. Introdução ao protocolo HTTP
 
-[Slides](Topico%2002%20-%20Protocolo%20HTTP/02%20DAW%20Protocolo%20-%20Slides.pdf)
-
-[Exercícios](Topico%2002%20-%20Protocolo%20HTTP/02%20DAW%20Protocolo%20-%20Exercicios.pdf)
-
-[Audio](https://drive.google.com/open?id=1Dt-zvePZc_e9JrQCbLlCTy2x9o2t1cFa)
+* [Slides](Topico%2002%20-%20Protocolo%20HTTP/02%20DAW%20Protocolo%20-%20Slides.pdf)
+* [Exercícios](Topico%2002%20-%20Protocolo%20HTTP/02%20DAW%20Protocolo%20-%20Exercicios.pdf)
+* [Audio](https://drive.google.com/open?id=1Dt-zvePZc_e9JrQCbLlCTy2x9o2t1cFa)
 
 ### 3. Introdução ao Vue.JS
 
@@ -24,13 +22,18 @@ O objetivo deste repositório é organizar um material sobre o desenvolvimento d
 
 ### 5. Introdução ao roteador do Vue.JS
 
-[Slides](Topico%2005%20-%20VueJS%20Router/05%20DAW%20VueJS%20Roteamento.pdf)
-[Video #1](https://drive.google.com/open?id=1LUED8k7k6mz4lKG8mza5SYqpQokv4Kjf)
-[Video #2](https://drive.google.com/open?id=1Kllxyrz_JAReve0o16QIP5d5qoVM_Rnr)
-[Video #3](https://drive.google.com/open?id=1KqrrgL0kSdhOz2Yc2T7pNSskJxlWo9h3)
-[Video #4](https://drive.google.com/open?id=1Kreuf_05q78B4JiM_4FMm2Pl7a9K320H)
+* [Slides](Topico%2005%20-%20VueJS%20Router/05%20DAW%20VueJS%20Roteamento.pdf)
+* [Video #1](https://drive.google.com/open?id=1LUED8k7k6mz4lKG8mza5SYqpQokv4Kjf)
+* [Video #2](https://drive.google.com/open?id=1Kllxyrz_JAReve0o16QIP5d5qoVM_Rnr)
+* [Video #3](https://drive.google.com/open?id=1KqrrgL0kSdhOz2Yc2T7pNSskJxlWo9h3)
+* [Video #4](https://drive.google.com/open?id=1Kreuf_05q78B4JiM_4FMm2Pl7a9K320H)
 
 ### 6. Segurança de aplicações Web com JWT
 
-### 7. Dsenvolvimento com Vuetify
+* [Link #1](https://www.codemag.com/Article/2105051/Implementing-JWT-Authentication-in-ASP.NET-Core-5)
+* [Link #2](https://medium.com/@wellingtonjhn/autentica%C3%A7%C3%A3o-em-apis-asp-net-core-com-jwt-591f3d8a9bad)
+* [Link #3](https://cloud.google.com/api-gateway/docs/authenticating-users-jwt#:~:text=To%20authenticate%20a%20user%2C%20a,request%20to%20your%20backend%20API)
 
+### 7. Desenvolvimento com Vuetify
+
+* [Link #1](https://vuetifyjs.com/en/getting-started/installation/)
