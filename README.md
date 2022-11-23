@@ -29,6 +29,8 @@ Este material está dividido nas seguintes unidades:
 * [Video #2](https://drive.google.com/open?id=1Kllxyrz_JAReve0o16QIP5d5qoVM_Rnr)
 * [Video #3](https://drive.google.com/open?id=1KqrrgL0kSdhOz2Yc2T7pNSskJxlWo9h3)
 * [Video #4](https://drive.google.com/open?id=1Kreuf_05q78B4JiM_4FMm2Pl7a9K320H)
+* [Comunicação entre componentes #1](https://acervolima.com/comunicacao-entre-componentes-usando-emit-e-props-em-vue-js/#:~:text=Os%20componentes%20no%20Vue.,%C3%A9%20usando%20%24emit%20e%20props.)
+* [Comunicação entre componentes #2](https://br.vuejs.org/v2/guide/components.html#Escutando-Eventos-de-Componentes-Filho)
 
 ### 6. Segurança de aplicações Web com JWT
 
