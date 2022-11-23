@@ -34,8 +34,7 @@ Este material está dividido nas seguintes unidades:
 
 * [Link #1](https://www.codemag.com/Article/2105051/Implementing-JWT-Authentication-in-ASP.NET-Core-5)
 * [Link #2](https://medium.com/@wellingtonjhn/autentica%C3%A7%C3%A3o-em-apis-asp-net-core-com-jwt-591f3d8a9bad)
-* [Link #3](https://cloud.google.com/api-gateway/docs/authenticating-users-jwt#:~:text=To%20authenticate%20a%20user%2C%20a,request%20to%20your%20backend%20API)
 
 ### 7. Desenvolvimento com Vuetify
 
-* [Link #1](https://vuetifyjs.com/en/getting-started/installation/)
+* [Link](https://vuetifyjs.com/en/getting-started/installation/)
